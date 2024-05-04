@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anushka Sharma
-- 👀 I’m interested in learning react
-- 🌱 I’m currently learning java,python.
+- 👀 I’m interested in learning android
+- 🌱 I’m currently learning java,kotlin.
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me call me 9520421122
 
